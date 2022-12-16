@@ -11,9 +11,9 @@ I hope you get much use out of this.
 
 -- set item quality here: 0=trash, 1=whites, 2=greens, 3=blues, 4=purples
 SET @quality=4;
-SET @gems=3;
+SET @gems=4;
 -- set tier here: 115=dungeon 3 set, 120=Tier 4, 133=tier 5, 146=tier 6
-SET @tier=120;
+SET @tier=146;
 
 
 -- cleanup
